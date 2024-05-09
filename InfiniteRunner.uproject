@@ -260,15 +260,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MegascansPlugin",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
