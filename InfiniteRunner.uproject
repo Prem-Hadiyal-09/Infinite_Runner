@@ -29,10 +29,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosCaching",
-			"Enabled": true
-		},
-		{
 			"Name": "SpeedTreeImporter",
 			"Enabled": false
 		},
@@ -314,6 +310,34 @@
 		},
 		{
 			"Name": "CryptoKeys",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "ACLPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationSharing",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "NiagaraSimCaching",
+			"Enabled": false
+		},
+		{
+			"Name": "XGEController",
 			"Enabled": false
 		}
 	],
