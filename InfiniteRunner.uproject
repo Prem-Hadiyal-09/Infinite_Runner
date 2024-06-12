@@ -298,10 +298,6 @@
 			"SupportedTargetPlatforms": [
 				"Mac"
 			]
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
