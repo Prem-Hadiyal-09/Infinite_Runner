@@ -50,7 +50,7 @@
 		},
 		{
 			"Name": "WindowsMoviePlayer",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "WebMMoviePlayer",
@@ -58,8 +58,8 @@
 		},
 		{
 			"Name": "AndroidMedia",
-			"Enabled": false
-		},
+			"Enabled": true
+		},	
 		{
 			"Name": "AndroidMoviePlayer",
 			"Enabled": false
@@ -74,7 +74,7 @@
 		},
 		{
 			"Name": "ChaosClothEditor",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ChunkDownloader",
@@ -318,7 +318,7 @@
 		},
 		{
 			"Name": "AndroidDeviceProfileSelector",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ACLPlugin",
@@ -326,19 +326,15 @@
 		},
 		{
 			"Name": "AnimationSharing",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ChaosCloth",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "NiagaraSimCaching",
-			"Enabled": false
-		},
-		{
-			"Name": "XGEController",
-			"Enabled": false
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
