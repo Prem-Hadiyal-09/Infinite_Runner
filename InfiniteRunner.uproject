@@ -59,7 +59,7 @@
 		{
 			"Name": "AndroidMedia",
 			"Enabled": true
-		},	
+		},
 		{
 			"Name": "AndroidMoviePlayer",
 			"Enabled": false
